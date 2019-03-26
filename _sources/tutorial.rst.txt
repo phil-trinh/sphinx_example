@@ -1,0 +1,3 @@
+Code Tutorial
+=============
+Run :code:`$python hw1.py` on your terminal
